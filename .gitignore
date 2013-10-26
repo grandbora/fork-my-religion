@@ -34,5 +34,6 @@ capybara-*.html
 rerun.txt
 pickle-email-*.html
 .project
+.DS_Store
 
 .env
